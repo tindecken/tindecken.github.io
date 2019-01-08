@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3be48eb1c0a80e11689bfa105d283122.js"
+  "/precache-manifest.00372552f4f4a5de8961e18cf5351594.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ctind"});
